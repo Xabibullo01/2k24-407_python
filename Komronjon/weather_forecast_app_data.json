@@ -1,0 +1,24 @@
+{
+  "Title": "Weather Forecast App",
+  "Publish Date": "March 2025 - March 2025",
+  "Project Types": [
+    "Website",
+    "API"
+  ],
+  "Image URL": "https://shaxzodbek.com/media/blog/projects/2025/03/27/GYM_LOGO.jpeg",
+  "Description": "A web application that retrieves weather data using APIs.",
+  "Technologies": [
+    {
+      "Icon": "https://shaxzodbek.com/media/blog/programming_languages/2025/03/11/react.png",
+      "Name": "React"
+    },
+    {
+      "Icon": "https://shaxzodbek.com/media/blog/programming_languages/2025/03/11/python.jpeg",
+      "Name": "Python"
+    }
+  ],
+  "Links": {
+    "View on GitHub": "https://t.me/behruzov",
+    "Live Demo": "https://t.me/behruzov"
+  }
+}
